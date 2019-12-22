@@ -21,7 +21,7 @@ With the available data, i.e. offers, customer profiles and transactional data, 
 * How can offers be assigned to customers (offer, age group, gender)
 * Which offers are most accepted by customers (type of offer, customer group)
 
-The article detailing the key findings of this project can be found [here](https://medium.com/@geraldfranzkrieg/).
+The article detailing the key findings of this project can be found [here](https://medium.com/@geraldfranzkrieg/a-little-analysis-of-the-starbucks-offers-955ac2a4b23a).
 
 ## Method and Results
 
